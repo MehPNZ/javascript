@@ -1,2 +1,1 @@
-export default  (a, b) => a + b caa
-asc
+export default  (a, b) => a + b; sasd
