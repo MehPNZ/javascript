@@ -1,1 +1,1 @@
-export default  (a, b) => a + b; + -sa
+export default  (a, b) => a + b; + s
