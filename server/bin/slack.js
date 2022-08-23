@@ -1,1 +1,1 @@
-export default (a, b) => a + b; asc
+export default (a, b) => a + b;
