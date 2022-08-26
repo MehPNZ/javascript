@@ -1,3 +1,3 @@
-export default (a, b) => a + b;sasdff
+export default (a, b) => a + b;sd
 
 
